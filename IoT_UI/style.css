@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.top-banner{
+    background-color: black;
+    color: white;
+    padding: 05px 0 03px 0;
+    text-align: center;
+}
+.top-banner.headingg{
+    text-decoration-color: white;
+    text-align: center;
+}
+
+
+
+
+
